@@ -2,9 +2,6 @@
 
 [![project_page](https://img.shields.io/badge/-project%20page-green)](https://janeyeon.github.io/beyond-scene/) [![arXiv](https://img.shields.io/badge/arXiv-2404.04544-red)](https://arxiv.org/abs/2404.04544) 
 
-<p align="center">
-## ECCV 2024 
-</p> 
 
 <p align="center">
   <img src="assets/8k_mountain.png"/>
