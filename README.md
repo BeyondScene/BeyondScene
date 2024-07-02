@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/beyond-scene-logo.png"/>
+</p> 
+
 ## [ECCV 2024] BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion<br>
 
 [![project_page](https://img.shields.io/badge/-project%20page-green)](https://janeyeon.github.io/beyond-scene/) [![arXiv](https://img.shields.io/badge/arXiv-2404.04544-red)](https://arxiv.org/abs/2404.04544) 
