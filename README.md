@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/beyond-scene-logo.png"/>
+  <img src="assets/beyond-scene-logo.png" style="width: 50%; height: 50%;"/>
 </p> 
 
 ## [ECCV 2024] BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion<br>
